@@ -5,7 +5,7 @@
 }
 
 /// <summary>
-///     Asynchronous synchronization construct with reader-writer semantics from Jeffrey Richter.
+///     Non-blocking synchronization construct with reader-writer semantics from Jeffrey Richter.
 /// </summary>
 public sealed class AsyncOneManyLock
 {
